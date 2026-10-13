@@ -12,9 +12,9 @@ Bu depo SDM'nin resmi kurulum dosyalarını, sürüm notlarını ve güncelleme 
 
 | Dosya | Kullanımı |
 |---|---|
-| **SDM-Setup-0.4.2.exe** | Windows kurulum ve güncelleme paketi. |
-| **SDM-Extension-0.4.2.zip** | Chrome/Opera eklentisinin ayrı paketi. |
-| **SDM-Setup-0.4.2.sha256** | Kurulum dosyasının bütünlük kontrolü. |
+| **SDM-Setup-0.4.3.exe** | Windows kurulum ve güncelleme paketi. |
+| **SDM-Extension-0.4.3.zip** | Chrome/Opera eklentisinin ayrı paketi. |
+| **SDM-Setup-0.4.3.sha256** | Kurulum dosyasının bütünlük kontrolü. |
 | **latest.json** | Sürüm numarası, indirme adresi, boyut ve SHA-256 bilgileri. |
 
 ## Neler sunar?
